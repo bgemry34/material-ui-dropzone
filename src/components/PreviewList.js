@@ -39,8 +39,6 @@ const styles = ({palette, shape, spacing}) => ({
         opacity: 0,
         top: spacing(-1),
         right: spacing(-1),
-        marginRigth:'45%',
-        marginTop:'70px',
         width: 40,
         height: 40,
         '&:focus': {
